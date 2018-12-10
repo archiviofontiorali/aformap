@@ -25,7 +25,7 @@ locationlist = locations.values.tolist()
 #print(locationlist)
 #regex = re.compile("IN[0-9]")
 #regex2 = re.compile("PL[0-9]")
-
+#
 nodes = folium.FeatureGroup(name='Punti')
 
 marker_cluster = MarkerCluster().add_to(nodes)
