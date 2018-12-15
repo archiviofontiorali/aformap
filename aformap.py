@@ -6,7 +6,7 @@ from folium.plugins import MarkerCluster
 import re
 import time
 
-m = folium.Map(location=[44.650837, 10.898436], zoom_start=16)
+m = folium.Map(location=[44.650837, 10.898436], zoom_start=16, max_zoom=19,attr='Map data &copy; <a href="https://openstreetmap.org">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>')
 #interviewee = folium.Icon(color='red', icon='volume-up', prefix='fa')
 #standard = folium.Icon(color='green', icon='volume-up', prefix='fa')
 
@@ -38,14 +38,17 @@ for point in range(0, len(locationlist)):
         color = 'red'
         icon = 'volume-up'
         prefix = 'fa'
+        nodename = str(df['fullname'][point])
     elif re.search('PL[0-9]', str(df['id'][point])) is not None:
         color = 'green'
         icon ='bookmark'
         prefix = 'fa'
+        nodename = str(df['name'][point])
     else:
         color = 'blue'
         icon = 'volume-up'
         prefix = 'fa'
+        nodename = str(df['name'][point])
         
     #print(len(coordinates))
     #print(coordinates)
@@ -54,11 +57,10 @@ for point in range(0, len(locationlist)):
         coordinates = ([float(df['lon'][point]), float(df['lat'][point])])
         #print(str(df['name'][point]))
         
-        
         if pd.notna(df['ialink'][point]):
-            popupwri = '<h1>' + df['name'][point] + '</h1></br><iframe src="' + str(df['ialink'][point]) + '" width="320" height="240" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>'
+            popupwri = '<h1>' + nodename + '</h1></br><iframe src="https://archive.org/embed/' + str(df['ialink'][point]) + '" width="320" height="240" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>'
         else:
-            popupwri = '<h1>' + str(df['name'][point]) + '</h1'
+            popupwri = '<h3>' + str(df['name'][point]) + '</h3>'
         
         folium.Marker(coordinates, popup=folium.Popup(popupwri, max_width=600), icon=folium.Icon(color = color, icon = icon, prefix = prefix)).add_to(marker_cluster)
     else:
@@ -87,4 +89,4 @@ m.add_child(edges)
 m.add_child(folium.LayerControl())
 
 
-m.save('index.html')
+m.save('gh-pages/index.html')

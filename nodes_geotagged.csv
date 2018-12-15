@@ -1,298 +1,300 @@
-	name	id	address	descr	lat	lon	ialink
-CARLO_CANDI	Accademia	PL000001		accademia in p.zza a Firenze	NotAvailable	NotAvailable	
-fantoni02	Acciaierie di rubiera	PL000002	Acciaierie di Rubiera		10.780898724743	44.625061	
-fantoni02	Aeroporto di tripoli	PL000003	aeroporto di Tripoli		13.2754884156506	32.8962023	
-fantoni01	Africa	PL000004	africa		15.9999997	2.0000003	
-SALVALAI_02	Anzola	PL000006	anzola dell’emilia		11.194608	44.546367	
-fantoni02	Arabia	PL000007	arabian peninsula		49.4771176515971	22.3743008	
-nora01	Arbe	PL000008	Via Emilia Ovest, 1014, 41123 Modena MO	fabbrica alla Bruciata dove adesso c'e Bricoman	10.8718612	44.6534714	
-vesce01	Arcivescovado	PL000009	Corso Duomo, 34, 41121 Modena MO	arcivescovado di Modena	10.9247818	44.6464014	
-MIRIAM_01_1	Asilo	PL000010	Via Giovanni Antonio Scacciera, Villaggio Artigiano, San Faustino-Madonnina-Quattroville, Modena, MO, Emilia-Romagna, 41123, Italy	al Villaggio -> intende scuole materne	10.9026111	44.6534738	
-MIRIAM_01_1	Assisi	PL000013	Assisi, PG, Umbria, 06081, Italy		12.6146669	43.0711952	
-CARLO_CANDI	Atene	PL000014	atene, grecia		23.7279843	37.9841493	
-fantoni02	Autobus	PL000015		costruttore di autobus nel villaggio	NotAvailable	NotAvailable	
-nora01	Autodromo	PL000016	Parco Enzo Ferrari, modena		10.9074604877685	44.6499674	
-nora01	Autotrasporti	PL000017		ditta di autotrasporti dietro casa Nora	NotAvailable	NotAvailable	
-nora01	Azienda	PL000018		isola ecologica in via Nobili	NotAvailable	NotAvailable	
-MOGLIE_MAESTRO	Bar	PL000019		di fronte alla fabbrica sede delle scuole	NotAvailable	NotAvailable	
-nora01	Bar	PL000020		non precisato	NotAvailable	NotAvailable	
-nora01	Barbiere	PL000021		non precisato	NotAvailable	NotAvailable	
-vesce01	Bassa	PL000022			NotAvailable	NotAvailable	
-CARLO_CANDI	Battistero bizantino	PL000023	Piazza Campo, 88832 Santa Severina KR	a Santa Severina	16.9150324903434	39.1476519	
-EGENIO_RONCHETTI_02	Biblioteca	PL000024		in via de' Gavasseti - di fianco all'ex sede Mbm	NotAvailable	NotAvailable	
-RITA_RONCHETTI_1	Bologna	PL000025	bologna, italy		11.3430347	44.4936714	
-CARLO_CANDI	Brera	PL000026	brera, italy		9.1877351	45.4715187	
-nora01	Bricoman	PL000027	Via Emilia Ovest, 1014, 41123 Modena MO		10.8718612	44.6534714	
-nora01	Bruciata	PL000028	bruciata, modena		10.8674658	44.6508604	
-MIRIAM_01_1	Buon pastore	PL000029		corsetteria in Buon Pastore	NotAvailable	NotAvailable	
-CARLO_CANDI	Calabria	PL000030	calabria, italy		16.5249864	39.0565974	
-vesce02	Cam	PL000031	Via Nicolò Biondo 89, Modena		10.9013686	44.6542114	
-nora01	Campo	PL000032		oltre via nobili, oltre il canale	NotAvailable	NotAvailable	
-fantoni02	Campogalliano	PL000033	campogalliano		10.8407336	44.6905118	
-vesce01	Canalchiaro	PL000034	corso canalchiaro, modena		10.923256	44.6451911	
-nora01	Canale	PL000035		in fondo a via nobili	NotAvailable	NotAvailable	
-nora01	Canale san pietro	PL000036		in zona Morane (Modena)	NotAvailable	NotAvailable	
-fantoni02	Capitale	PL000037		capitale della Somalia	NotAvailable	NotAvailable	
-SALVALAI_02	Caprari	PL000038	Via Emilia Ovest, 900, 41123 Modena MO		10.8802125	44.6563443	
-MIRIAM_01_1	Carpi	PL000039	carpi, italy		10.8854523	44.7835699	
-vesce02	Carpigiani	PL000040			NotAvailable	NotAvailable	
-vesce02	Carrozzeria autodromo	PL000041	Via Nicolò Biondo 89, Modena		10.9013686	44.6542114	
-vesce02	Carrozzeria orlandi	PL000042			NotAvailable	NotAvailable	
-nora01	Casa di cura fogliani	PL000043	Via Lodovico Lana, 1, 41124 Modena MO		10.9171507	44.6417407	
-nora01	Case popolari	PL000044		del villaggio	NotAvailable	NotAvailable	
-vesce02	Castelfranco	PL000045	castelfranco emilia		11.0529006	44.5950245	
-fantoni02	Castelfranco emilia	PL000046	castelfranco emilia		11.0529006	44.5950245	
-CARLO_CANDI	Castello	PL000047		a Santa Severina 	NotAvailable	NotAvailable	
-fantoni02	Castello estense	PL000048		a Ferrara	NotAvailable	NotAvailable	
-CARLO_CANDI	Castello svevo	PL000049		a Santa Severina	NotAvailable	NotAvailable	
-CARLO_CANDI	Catanzaro	PL000050	catanzaro, italy		16.5960465	38.9076353	
-nora01	Cavalcavia	PL000051		della Madonnina	NotAvailable	NotAvailable	
-nora01	Centro	PL000052		centro di Modena	NotAvailable	NotAvailable	
-nora01	Centro anziani	PL000053		intendono il circolo di Miriam?	NotAvailable	NotAvailable	
-EUGENIO_RONCHETTI_03	Centro civico	PL000054		sempre in via de' Gavasseti	NotAvailable	NotAvailable	
-CARLO_CANDI	Chiesa	PL000055		a Santa Severina	NotAvailable	NotAvailable	
-nora01	Chiesa	PL000056		chiesa del Villaggio	NotAvailable	NotAvailable	
-nora01	Chiesa grande	PL000057		parrocchia di Gesu redentore	NotAvailable	NotAvailable	
-vesce01	Chiesina	PL000058			NotAvailable	NotAvailable	
-SALVALAI_02	Cifa	PL000059			NotAvailable	NotAvailable	
-RITA_RONCHETTI_1	Cile	PL000060	Chile		-71.3187697	-31.7613365	
-SALVALAI_02	Cinema principe	PL000061	Piazza Natale Bruni, 41121 Modena MO		10.9338828866439	44.6514181	
-CARLO_CANDI	Circolo	PL000062		al Villaggio	NotAvailable	NotAvailable	
-CARLO_CANDI	Circolo arci	PL000063		circolo di Miriam	NotAvailable	NotAvailable	
-fantoni02	Circolo velico	PL000065		ai laghetti di Campogalliano	NotAvailable	NotAvailable	
-vesce01	Città	PL000066			NotAvailable	NotAvailable	
-vesce02	Cittadella	PL000067			NotAvailable	NotAvailable	
-MIRIAM_01_1	Cognento	PL000068	Cognento, MO, Emilia-Romagna, 41123, Italy		10.8684742	44.6375948	
-fantoni02	Collegio	PL000069		in Somalia (capitale)	NotAvailable	NotAvailable	
-vesce01	Collegio	PL000070			NotAvailable	NotAvailable	
-CARLO_CANDI	Comunale	PL000071		a Firenze	NotAvailable	NotAvailable	
-nora01	Comune	PL000072			NotAvailable	NotAvailable	
-CARLO_CANDI	Conservatorio cherubini	PL000073	Conservatorio Luigi Cherubini, Via di Rocca Tedalda, Quartiere 2, Florence, Metropolitan City of Florence, Tuscany, 50136, Italy	a Firenze	11.3166272	43.7674894	
-MIRIAM_01_1	Coop	PL000074		ex coop del Villaggio	NotAvailable	NotAvailable	
-nora01	Cooperativa	PL000075			NotAvailable	NotAvailable	
-vesce02	Cooperativa autodromo	PL000076			NotAvailable	NotAvailable	
-nora01	Cooperativa fonditori	PL000077			NotAvailable	NotAvailable	
-nora01	Cooperativa tipografi	PL000078			NotAvailable	NotAvailable	
-SALVALAI_01	Corassori	PL000079			NotAvailable	NotAvailable	
-fantoni02	Corea	PL000080			NotAvailable	NotAvailable	
-MOGLIE_MAESTRO	Coris	PL000081			NotAvailable	NotAvailable	
-SALVALAI_01	Corni	PL000082			NotAvailable	NotAvailable	
-fantoni02	Corriere	PL000083		ancora il costruttore di autobus nel villaggio	NotAvailable	NotAvailable	
-MIRIAM_02_1	Corso cavour	PL000084			NotAvailable	NotAvailable	
-EGENIO_RONCHETTI_02	Cortile	PL000085		cortile della chiesa	NotAvailable	NotAvailable	
-CARLO_CANDI	Crotone	PL000086	Corso Cavour		9.8169172	44.1060316	
-RITA_RONCHETTI_1	Dams	PL000087	DAMS, Via Collegio di Spagna, Saragozza-Porto, Bologna, BO, Emilia-Romagna, 40123, Italy 		11.3390538601447	44.4911621	
-fantoni02	Diga	PL000088		in Somalia	NotAvailable	NotAvailable	
-vesce01	Diocesi di modena	PL000089			NotAvailable	NotAvailable	
-MOGLIE_MAESTRO	Distributore	PL000090		al Villaggio	NotAvailable	NotAvailable	
-SALVALAI_02	Distributore	PL000091			NotAvailable	NotAvailable	
-CARLO_CANDI	Duomo	PL000092		di Firenze	NotAvailable	NotAvailable	
-MOGLIE_MAESTRO	Elementari	PL000093		parla delle vecchie elementari (sopra all'Indusnova?)	NotAvailable	NotAvailable	
-MIRIAM_02_1	Emilia	PL000094			NotAvailable	NotAvailable	
-SALVALAI_02	Erma	PL000095	Via Emilia Ovest, 910, 41123 Modena MO		10.8797523	44.6561538	
-fantoni02	Europa	PL000096			NotAvailable	NotAvailable	
-MIRIAM_01_1	Eurospar	PL000097		di fianco al cavalcavia della Madonnina	NotAvailable	NotAvailable	
-MOGLIE_MAESTRO	Fabbrica	PL000098		indusnova? era sede di una scuola	NotAvailable	NotAvailable	
-nora01	Fabbro	PL000099			NotAvailable	NotAvailable	
-MIRIAM_01_1	Falc	PL000100			NotAvailable	NotAvailable	
-nora01	Falegnami	PL000101		probabilmente i Candi	NotAvailable	NotAvailable	
-SALVALAI_02	Ferramenta	PL000102			NotAvailable	NotAvailable	
-fantoni02	Ferrara	PL000103	ferrara, italy		11.6186451	44.8372737	
-nora01	Ferrari	PL000104			NotAvailable	NotAvailable	
-nora02	Ferrovia	PL000105			NotAvailable	NotAvailable	
-RITA_RONCHETTI_1	Fiat	PL000106			NotAvailable	NotAvailable	
-vesce01	Fidenza	PL000107	fidenza, italy		10.0611939	44.866522	
-CARLO_CANDI	Fiesole	PL000108	fiesole, italy		11.2930735	43.8066689	
-fantoni02	Finlandia	PL000109	Finlandia		25.9209164	63.2467777	
-SALVALAI_01	Fiori	PL000110			NotAvailable	NotAvailable	
-CARLO_CANDI	Firenze	PL000111	Firenze, italy		11.2555757	43.7698712	
-CARLO_CANDI	Fiumalbo	PL000112	Fiumalbo, Unione dei comuni del Frignano, MO, Emilia-Romagna, 41022, Italy		10.6477331	44.1799513	
-fantoni02	Fonderia	PL000113		Fonderia Ponzoni	NotAvailable	NotAvailable	
-nora01	Fonderia di modena	PL000114	Via Giuseppe Zarlati, 84, 41126 Modena MO		10.8961538	44.6513095	
-nora01	Fonderie	PL000115			NotAvailable	NotAvailable	
-fantoni02	Foresta nera	PL000116	Foresta Nera		8.16474879186534	48.26344385	
-nora01	Formigine	PL000117	Formigine, Unione dei comuni del Distretto Ceramico, MO, Emilia-Romagna, 41043, Italy 		10.8458355	44.5776259	
-vesce01	Fossa	PL000118			NotAvailable	NotAvailable	
-vesce02	Francia	PL000119	France		1.8883335	46.603354	
-MIRIAM_02_1	Fratellanza	PL000120	Associazione Sportiva La Fratellanza, 76, Via Alfonso Piazza, Villaggio Artigiano, San Faustino-Madonnina-Quattroville, Modena, MO, Emilia-Romagna, 41126, Italy		NotAvailable	NotAvailable	
-RITA_RONCHETTI_1	Freto	PL000121	Freto, MO, Emilia-Romagna, 41123, Italy		10.8906262	44.6712409	
-RITA_RONCHETTI_1	Gaiato	PL000122	Gaiato, Pavullo nel Frignano, Unione dei comuni del Frignano, MO, Emilia-Romagna, Italy 		10.8406698	44.2910524	
-fantoni02	Galleria estense	PL000123	337, Largo Porta Sant’Agostino, Quartiere Cittanova, Centro Storico, Modena, MO, Emilia-Romagna, 41121, Italy		10.9210346	44.6482469	
-fantoni02	Germania	PL000124	Germania		10.4234469	51.0834196	
-vesce01	Gino nasi	PL000125	Via Tarquinia, 55, 41125 Modena MO		10.9373816	44.6222428	
-MIRIAM_01_1	Grandemilia	PL000126	Centro Commerciale GrandEmilia, Viale Catullo, Cittanova, San Faustino-Madonnina-Quattroville, Modena, MO, Emilia-Romagna, 41123, Italy 		10.854068767777	44.6484094	
-RITA_RONCHETTI_1	Grecia	PL000127	Grecia		21.9877132	38.9953683	
-vesce01	Gregoriana	PL000128			NotAvailable	NotAvailable	
-nora01	Indusonva	PL000129			NotAvailable	NotAvailable	
-fantoni02	Istituto tecnico	PL000130		a Modena -> il Corni	NotAvailable	NotAvailable	
-vesce01	Italia	PL000131	Italia		12.674297	42.6384261	
-nora01	Lar	PL000132	Via Viareggio, Campogalliano, Unione delle Terre d'Argine, MO, Emilia-Romagna, 41011, Italy		10.8137524	44.6935657	
-MIRIAM_01_1	Lattaia	PL000133		sempre al villaggio	NotAvailable	NotAvailable	
-nora01	Latteria	PL000134			NotAvailable	NotAvailable	
-fantoni02	Libia	PL000135	libia		18.1236723	26.8234472	
-vesce01	Liceo classico	PL000136			NotAvailable	NotAvailable	
-SALVALAI_02	Liceo tassoni	PL000137	Liceo Scientifico Statale Alessandro Tassoni, 66, Viale Virginia Reiter, Quartiere Albareto, Centro Storico, Modena, MO, Emilia-Romagna, 41121, Italy		NotAvailable	NotAvailable	
-nora01	Madonna pellegrina	PL000138	Madonna Pellegrina, Viale Don Giovanni Minzoni, Buon Pastore-Sant'Agnese-San Damaso, Modena, MO, Emilia-Romagna, 41125, Italy		10.9247681192572	44.63401655	
-MOGLIE_MAESTRO	Madonnina	PL000139	Madonnina, Modena, MO, Emilia-Romagna, 41123, Italy		10.8985687	44.6572947	
-nora01	Magistrali	PL000140			NotAvailable	NotAvailable	
-SALVALAI_02	Malagoli	PL000141			NotAvailable	NotAvailable	
-vesce01	Maldive	PL000142	Maldive		73.3287853	4.7064352	
-nora01	Mantova	PL000143	Mantova, Italy		10.7917191	45.1566683	
-MIRIAM_01_1	Marche	PL000144	Marche, Italy		13.1415872	43.3458388	
-nora01	Maserati	PL000145	Maserati Store and Showroom, Via Divisione Acqui, Torrenova, Crocetta-San Lazzaro-Modena Est, Modena, MO, Emilia-Romagna, 41121, Italy 		10.94015	44.6491283	
-SALVALAI_02	Masoni rinaldi	PL000146			NotAvailable	NotAvailable	
-MOGLIE_MAESTRO	Materne	PL000147		scuola materna del villaggio dove ora c'è l'Emilio Po	NotAvailable	NotAvailable	
-fantoni02	Matic elettra	PL000148	Via Nicolò Biondo 90, Modena		10.9010916	44.6542251	
-EGENIO_RONCHETTI_02	Mbm	PL000149	via de' gavasseti 67, modena	maglificio, ex sede in via de Gavasseti	10.902386	44.6509988	
-MOGLIE_MAESTRO	Mcdonald	PL000150			NotAvailable	NotAvailable	
-MOGLIE_MAESTRO	Medaglie d'oro	PL000151	Viale Medaglie D'Oro, Buon Pastore-Sant'Agnese-San Damaso, Modena, MO, Emilia-Romagna, 41124, Italy		10.9302164	44.6367248	
-nora01	Mensa	PL000152			NotAvailable	NotAvailable	
-SALVALAI_02	Mensa	PL000153			NotAvailable	NotAvailable	
-MIRIAM_02_1	Mercato albinelli	PL000154	Mercato Coperto Albinelli, 13, Via Luigi Albinelli, Quartiere Baggiovara, Centro Storico, Modena, MO, Emilia-Romagna, 41121, Italy		NotAvailable	NotAvailable	
-SALVALAI_02	Milano	PL000155	Milano, Italy		9.1904984	45.4667971	
-SALVALAI_01	Mobili uniti	PL000156			NotAvailable	NotAvailable	
-RITA_RONCHETTI_1	Modena	PL000157	Modena, italy		10.9255707	44.6458885	
-vesce01	Modena est	PL000158			NotAvailable	NotAvailable	
-fantoni02	Moma	PL000160	MoMA (Museum Of Modern Art), 11, West 53rd Street, Diamond District, Midtown, Manhattan, Manhattan Community Board 5, New York County, New York City, New York, 10019, USA	a New York	NotAvailable	NotAvailable	
-nora01	Morane	PL000161	Morane, Strada Morane, Buon Pastore-Sant'Agnese-San Damaso, Modena, MO, Emilia-Romagna, 41125, Italy		10.9348042	44.6152699	
-nora01	Musto	PL000162			NotAvailable	NotAvailable	
-vesce01	Naviglio	PL000163			NotAvailable	NotAvailable	
-nora01	Negozio di generi alimentari	PL000164			NotAvailable	NotAvailable	
-fantoni02	New york	PL000165	New York		-73.9871558	40.7308619	
-MIRIAM_01_1	Nido	PL000166		asilo nido del Villaggio	NotAvailable	NotAvailable	
-MOGLIE_MAESTRO	Nonantola	PL000167	Nonantola, Italy		11.0436236	44.6776083	
-fantoni02	Nord africa	PL000168			NotAvailable	NotAvailable	
-MIRIAM_02_1	Novi sad	PL000169			NotAvailable	NotAvailable	
-CARLO_CANDI	O' spuntune	PL000170		a Santa Severina	NotAvailable	NotAvailable	
-EGENIO_RONCHETTI_02	Oratorio	PL000171			NotAvailable	NotAvailable	
-SALVALAI_02	Ottani	PL000172			NotAvailable	NotAvailable	
-nora01	Ovestlab	PL000173	Via Nicolò Biondo 86, Modena		10.9011459	44.6543412	
-SALVALAI_02	Palazzetto dello sport	PL000174	Palazzo dello Sport Palapanini, 25, Viale Dello Sport, Torrenova, Crocetta-San Lazzaro-Modena Est, Modena, MO, Emilia-Romagna, 41122, Italy		NotAvailable	NotAvailable	
-vesce01	Panaro	PL000175			NotAvailable	NotAvailable	
-nora01	Panini	PL000176	Via Emilio Po, 380, 41126 Modena MO		10.8990901	44.6493163	
-nora01	Parchetto	PL000177			NotAvailable	NotAvailable	
-MOGLIE_MAESTRO	Parco ferrari	PL000179	Parco Enzo Ferrari, Villaggio Artigiano, San Faustino-Madonnina-Quattroville, Modena, MO, Emilia-Romagna, Italy		10.9074604877685	44.6499674	
-MIRIAM_01_1	Parco sigurtà	PL000180	Parco Giardino Sigurtà, Viale dei Pini, Il Torrione, Valeggio sul Mincio, VR, Veneto, 37067, Italy		10.7341685713398	45.36145395	
-vesce01	Parma	PL000181	Parma, Italy		10.3280833	44.8013678	
-nora01	Parrocchia	PL000182			NotAvailable	NotAvailable	
-RITA_RONCHETTI_1	Parrocchia della madonnina	PL000183	Via Pietro Alvarado, 19, 41123 Modena MO		10.8987884	44.6566849	
-nora01	Parrocchia nuova	PL000184			NotAvailable	NotAvailable	
-nora01	Passaggio a livello	PL000185			NotAvailable	NotAvailable	
-SALVALAI_02	Pecorari	PL000186			NotAvailable	NotAvailable	
-MOGLIE_MAESTRO	Pestalozzi	PL000187	Via Monte Grappa, 49, 41121 Modena MO	vecchio nome delle scuole materne in Monte Grappa	10.9402933	44.6475791	
-SALVALAI_02	Piazza mazzini	PL000188	Piazza Giuseppe Mazzini, Quartiere Albareto, Centro Storico, Modena, MO, Emilia-Romagna, 41121, Italy		10.9271115804774	44.6466959	
-CARLO_CANDI	Piazza san marco	PL000189			NotAvailable	NotAvailable	
-CARLO_CANDI	Pista sportiva	PL000190		la Fratellanza	NotAvailable	NotAvailable	
-fantoni02	Po	PL000191			NotAvailable	NotAvailable	
-MIRIAM_01_1	Polisportiva di san faustino	PL000192	Via Wiligelmo, 72, 41124 Modena MO		10.912137775641	44.63651305	
-nora01	Ponte	PL000193			NotAvailable	NotAvailable	
-RITA_RONCHETTI_1	Pontedera	PL000194	Pontedera, Italy		10.6354851	43.6634536	
-nora01	Ponzoni	PL000195			NotAvailable	NotAvailable	
-nora01	Posta	PL000196			NotAvailable	NotAvailable	
-CARLO_CANDI	Pozzoleo	PL000197	Chiesetta del Pozzoleo / Santa Filomena, Discesa Pozzoleo, Santa Severina, KR, Calabria, 88832, Italy		16.91544565	39.1470277	
-vesce01	Provincia di modena	PL000198	MO, Emilia-Romagna, Italy		10.9359608705307	44.5384728	
-RITA_RONCHETTI_1	Quartiere	PL000199			NotAvailable	NotAvailable	
-MOGLIE_MAESTRO	Reggio	PL000200			NotAvailable	NotAvailable	
-CARLO_CANDI	Reggio emilia	PL000201	Reggio Emilia, Italy		10.6304958	44.6978446	
-RITA_RONCHETTI_1	Repubblica di montefiorino	PL000202			NotAvailable	NotAvailable	
-MIRIAM_02_1	Riccione	PL000203	Riccione, Italy		12.6474368	43.998274	
-CARLO_CANDI	Roma	PL000204	Roma, Italy		12.4853384	41.894802	
-MIRIAM_02_1	Romagna	PL000205	Romagna, Modigliana, Unione di Comuni della Romagna Forlivese, FC, Emilia-Romagna, 47015, Italy		11.8473191022401	44.13497265	
-nora01	Rossi motoriduttori	PL000206			NotAvailable	NotAvailable	
-MIRIAM_01_1	Sacca	PL000207	Sacca, Modena, MO, Emilia-Romagna, 41121, Italy		10.9313857	44.6627322	
-EGENIO_RONCHETTI_02	Sala	PL000208		della parrocchia	NotAvailable	NotAvailable	
-RITA_RONCHETTI_1	Sala civica	PL000209			NotAvailable	NotAvailable	
-RITA_RONCHETTI_1	Sala di quartiere	PL000210			NotAvailable	NotAvailable	
-RITA_RONCHETTI_1	Sala parrocchiale della madonnina	PL000211	Via Pietro Alvarado, 19, 41123 Modena MO		10.8987884	44.6566849	
-nora01	Salami oleodinamica	PL000212	Via Emilia Ovest, 1006, 41123 Modena MO		10.8737166	44.6535794	
-RITA_RONCHETTI_1	San carlo	PL000213	Via S. Carlo, 5, 41121 Modena MO		10.9273017	44.645538	
-RITA_RONCHETTI_1	San cataldo	PL000214	Via San Cataldo, 41100 Modena MO		NotAvailable	NotAvailable	
-vesce01	San donnino	PL000215	San Donnino, Buon Pastore-Sant'Agnese-San Damaso, Modena, MO, Emilia-Romagna, Italy		NotAvailable	NotAvailable	
-MIRIAM_01_1	San faustino	PL000216	San Faustino, Modena, MO, Emilia-Romagna, 41124, Italy (		10.9115481	44.6401224	
-MIRIAM_02_1	Santa caterina	PL000217	Via Mar Mediterraneo, 80, 41122 Modena MO		10.9441033	44.6525374	
-CARLO_CANDI	Santa severina	PL000218	Santa Severina, KR, Italy		16.9127762	39.1479012	
-nora01	Sassuolo	PL000219	Sassuolo, Italy		10.7829023	44.5409769	
-MIRIAM_01_1	Scuola	PL000220		del Villaggio (Emilio Po o le vecchie?)	NotAvailable	NotAvailable	
-MOGLIE_MAESTRO	Scuola di via nicoli	PL000221			NotAvailable	NotAvailable	
-EUGENIO_RONCHETTI_05	Scuola elementare	PL000222		scuola Emilio Po	NotAvailable	NotAvailable	
-nora01	Scuola elementare	PL000223			NotAvailable	NotAvailable	
-nora01	Scuola emilio po	PL000224	Scuola Primaria Statale Emilio Po, 89, Via Giovanni Antonio Scacciera, Villaggio Artigiano, San Faustino-Madonnina-Quattroville, Modena, MO, Emilia-Romagna, 41126, Italy		NotAvailable	NotAvailable	
-CARLO_CANDI	Sede	PL000226		OvestLab	NotAvailable	NotAvailable	
-EGENIO_RONCHETTI_02	Sezione	PL000227		del PCI lungo via Emilio Po	NotAvailable	NotAvailable	
-vesce01	Sezione	PL000228			NotAvailable	NotAvailable	
-CARLO_CANDI	Sibari	PL000229			NotAvailable	NotAvailable	
-CARLO_CANDI	Siberene	PL000230			NotAvailable	NotAvailable	
-MOGLIE_MAESTRO	Sigma	PL000231		dice qui non c'era il sigma -> lo usa come esempio?	NotAvailable	NotAvailable	
-CARLO_CANDI	Sila	PL000232	Sila National Park, 437, Casali del Manco, CS, Calabria, Italy 		16.5074912220973	39.26001065	
-SALVALAI_01	Silvestri	PL000233			NotAvailable	NotAvailable	
-nora01	Sio	PL000234			NotAvailable	NotAvailable	
-SALVALAI_01	Soliera	PL000235	Soliera, Italy		10.924393	44.7381035	
-fantoni02	Somalia	PL000236	Somalia		49.083416	8.3676771	
-vesce01	Spezzano	PL000237	Spezzano, Via Statale, Crociale, Casa Palestro, Fiorano Modenese, Unione dei comuni del Distretto Ceramico, MO, Emilia-Romagna, 41042, Italy (		10.8405827	44.5333423	
-vesce02	Staggia	PL000238	Staggia Modenese, Unione Comuni Modenesi Area Nord, MO, Emilia-Romagna, 41036, Italy 		11.0526039	44.8028836	
-nora01	Sternieri	PL000239	Via David Livingstone, 5, 41123 Modena MO		10.8854694	44.6552124	
-nora01	Storchi	PL000240	Teatro Storchi, 15, Largo Giuseppe Garibaldi, Quartiere Albareto, Centro Storico, Modena, MO, Emilia-Romagna, 41124, Italy (		NotAvailable	NotAvailable	
-nora01	Tabaccheria	PL000241			NotAvailable	NotAvailable	
-RITA_RONCHETTI_1	Taizé	PL000242	Taizé, Bressuire, Deux-Sèvres, New Aquitaine, Metropolitan France, 79100, France		-0.1168552	46.924477	
-RITA_RONCHETTI_1	Teatro comunale	PL000243	Teatro comunale Luciano Pavarotti, 8, Via Del Teatro, Quartiere Albareto, Centro Storico, Modena, MO, Emilia-Romagna, 41121, Italy 		NotAvailable	NotAvailable	
-vesce01	Torrazzi	PL000244	Torrazzi, Modena, MO, Emilia-Romagna, 41122, Italy 		10.963492	44.6606606	
-vesce01	Tre olmi	PL000245	Tre Olmi, San Faustino-Madonnina-Quattroville, Modena, MO, Emilia-Romagna, 41123, Italy (		10.8734342621091	44.6674171	
-vesce01	Tre re	PL000246	Via Tre Re, Quartiere Baggiovara, Centro Storico, Modena, MO, Emilia-Romagna, 41121, Italy 		10.9233344	44.6437922	
-fantoni02	Treno	PL000247		ferrovia del Villaggio	NotAvailable	NotAvailable	
-EUGENIO_RONCHETTI_06	Tric e trac	PL000248	380, Via Leopoldo Nobili, Villaggio Artigiano, San Faustino-Madonnina-Quattroville, Modena, MO, Emilia-Romagna, 41126, Italy 		10.8875588	44.6487603	
-fantoni02	Tripoli	PL000249	Tripoli, Libya 		13.1777923	32.896672	
-CARLO_CANDI	Università	PL000250		a Firenze (attigua all'Accademia)	NotAvailable	NotAvailable	
-vesce01	Università	PL000251			NotAvailable	NotAvailable	
-vesce01	Università gregoriana	PL000252	Pontifical Gregorian University, 4, Piazza della Pilotta, Municipio Roma I, Rome, RM, Lazio, 00187, Italy (		NotAvailable	NotAvailable	
-fantoni02	Venezia	PL000253	Venezia, Italy		12.3345898	45.4371908	
-MIRIAM_02_1	Via albinelli	PL000254	Via Luigi Albinelli, Quartiere Baggiovara, Centro Storico, Modena, MO, Emilia-Romagna, 41121, Italy		10.9252456	44.6449541	
-nora01	Via bonacini	PL000255	Via bonacini, modena		10.9411256	44.6424015	
-nora01	Via cavour	PL000256	Corso Camillo Benso di Cavour, Addizione Erculea, Centro Storico, Modena, MO, Emilia-Romagna, 41121, Italy 		10.9298475	44.649377	
-fantoni02	Via cesare costa	PL000257	via Cesare Costa, modena		10.9119155	44.6568188	
-nora01	Via cesare della chiesa	PL000258	via Cesare della Chiesa, modena		10.8972134	44.6507474	
-MIRIAM_02_1	Via corassori	PL000259	via Corassori, modena		10.8986136	44.6429972	
-RITA_RONCHETTI_1	Via corridore 50	PL000260	Via Girolamo Corridore, 50, modena		10.8994668	44.6469515	
-EUGENIO_RONCHETTI_05	Via de' gavasseti	PL000261	via de' Gavasseti, modena		10.9029844	44.6509088	
-RITA_RONCHETTI_1	Via degli ulivi	PL000262			NotAvailable	NotAvailable	
-vesce01	Via del gambero	PL000263	Via del Gambero, Modena, MO		10.937508	44.6395163	
-RITA_RONCHETTI_1	Via del pratello	PL000264	via del pratello, bologna		11.3287167	44.4954124	
-CARLO_CANDI	Via emilia	PL000265		luogo in cui si svolgeva la festa de l'Unità	NotAvailable	NotAvailable	
-EGENIO_RONCHETTI_02	Via emilio po	PL000266	via emilio po, modena		10.8996773	44.6499936	
-nora01	Via leoni	PL000267	via Leoni, modena		10.9023159	44.6535927	
-MOGLIE_MAESTRO	Via nicoli	PL000268	Via Nicoli, modena		10.9121646	44.6449469	
-nora01	Via nicolò biondo	PL000269	via Nicolò Biondo, modena		10.8997427	44.6521154	
-nora01	Via nobili	PL000270	via Nobili, modena		10.8998335	44.6479911	
-MOGLIE_MAESTRO	Via palestro	PL000271	Via Palestro, modena		10.7754903	44.5470555	
-nora01	Via prati	PL000272	Via Renato Prati, modena		10.9037976	44.6500687	
-CARLO_CANDI	Via ricasoli	PL000273	via Ricasoli, firenze	a Firenze	11.2583332	43.7765114	
-nora01	Via rinaldi	PL000274	Via Tommaso Rinaldi, modena		10.9006431	44.6532794	
-SALVALAI_01	Via san cataldo	PL000275	strada San Cataldo, modena		10.9071233	44.6547627	
-MIRIAM_01_1	Via wiligelmo	PL000276	via Wiligelmo, modena		10.9125447	44.6362149	
-EGENIO_RONCHETTI_02	Vietnam	PL000277	vietnam		108.4265113	13.2904027	
-fantoni02	Vignola	PL000278	Vignola, Unione di comuni Terre di Castelli, MO, Emilia-Romagna, 41058, Italy (		11.0090928	44.4784141	
-RITA_RONCHETTI_1	Villaggio	PL000279			NotAvailable	NotAvailable	
-RITA_RONCHETTI_1	Villaggio artigiano	PL000280	Villaggio Artigiano, San Faustino-Madonnina-Quattroville, Modena, MO, Emilia-Romagna, 41123, Italy 		10.8972657	44.6513441	
-nora01	Villaggio artigiano modena est	PL000281			NotAvailable	NotAvailable	
-nora01	Villaggio giardino	PL000282	Villaggio Giardino, San Faustino-Madonnina-Quattroville, Modena, MO, Emilia-Romagna, 41128, Italy 		10.8942871	44.6425679	
-vesce01	Vivinatura	PL000283			NotAvailable	NotAvailable	
-fantoni02	Zuccherificio	PL000284		in Somalia (ex Villaggio Duca degli Abruzzi)	NotAvailable	NotAvailable	
-	miriam_01	IN000001			10.90377	44.653198	
-	miriam_02	IN000002			10.90377	44.653198	
-	miriam_e_vittorio_candi_01	IN000003			10.90377	44.653198	
-	paola_nora_e_madre_01	IN000004			10.901417	44.65391	
-	paola_nora_e_madre_02	IN000005			10.901417	44.65391	
-	rita_ronchetti_01	IN000006			10.9011459	44.6543412	
-	sandro_vesce_01	IN000007			10.901084	44.650861	
-	sandro_vesce_02	IN000008			10.901773	44.654371	
-	vittorio_candi_01	IN000009			10.900737	44.654406	
-	angelo_fantoni_02	IN000010			10.899878	44.653587	
-	carlo_candi_01	IN000011			10.899879	44.650135	
-	ermanno_salvalai_01	IN000012			10.894305	44.651143	
-	ermanno_salvalai_02	IN000013			10.894305	44.651143	
-	eugenio_ronchetti_01	IN000014			10.9011459	44.6543412	
-	eugenio_ronchetti_02	IN000015			10.899752	44.652157	
-	eugenio_ronchetti_03	IN000016			10.900491	44.651758	
-	eugenio_ronchetti_05	IN000017			10.901822	44.652992	
-	eugenio_ronchetti_06	IN000018			10.9011459	44.6543412	
-	il_maestro_01	IN000019			NotAvailable	NotAvailable	
-	moglie_maestro_01	IN000020			NotAvailable	NotAvailable	
+utteredby	name	fullname	id	address	descr	lat	lon	ialink
+afor_av_angelo-fantoni_01	Africa		PL000004	africa		15.9999997	2.0000003	
+afor_av_angelo-fantoni_02	Acciaierie di rubiera		PL000002	Acciaierie di Rubiera		10.780898724743	44.625061	
+afor_av_angelo-fantoni_02	Aeroporto di tripoli		PL000003	aeroporto di Tripoli		13.2754884156506	32.8962023	
+afor_av_angelo-fantoni_02	Arabia		PL000007	arabian peninsula		49.4771176515971	22.3743008	
+afor_av_angelo-fantoni_02	Autobus		PL000015		costruttore di autobus nel villaggio	NotAvailable	NotAvailable	
+afor_av_angelo-fantoni_02	Campogalliano		PL000033	campogalliano		10.8407336	44.6905118	
+afor_av_angelo-fantoni_02	Capitale		PL000037		capitale della Somalia	NotAvailable	NotAvailable	
+afor_av_angelo-fantoni_02	Castelfranco emilia		PL000046	castelfranco emilia		11.0529006	44.5950245	
+afor_av_angelo-fantoni_02	Castello estense		PL000048		a Ferrara	NotAvailable	NotAvailable	
+afor_av_angelo-fantoni_02	Circolo velico		PL000065		ai laghetti di Campogalliano	NotAvailable	NotAvailable	
+afor_av_angelo-fantoni_02	Collegio		PL000069		in Somalia (capitale)	NotAvailable	NotAvailable	
+afor_av_angelo-fantoni_02	Corea		PL000080			NotAvailable	NotAvailable	
+afor_av_angelo-fantoni_02	Corriere		PL000083		ancora il costruttore di autobus nel villaggio	NotAvailable	NotAvailable	
+afor_av_angelo-fantoni_02	Diga		PL000088		in Somalia	NotAvailable	NotAvailable	
+afor_av_angelo-fantoni_02	Europa		PL000096			NotAvailable	NotAvailable	
+afor_av_angelo-fantoni_02	Ferrara		PL000103	ferrara, italy		11.6186451	44.8372737	
+afor_av_angelo-fantoni_02	Finlandia		PL000109	Finlandia		25.9209164	63.2467777	
+afor_av_angelo-fantoni_02	Fonderia		PL000113		Fonderia Ponzoni	NotAvailable	NotAvailable	
+afor_av_angelo-fantoni_02	Foresta nera		PL000116	Foresta Nera		8.16474879186534	48.26344385	
+afor_av_angelo-fantoni_02	Galleria estense		PL000123	337, Largo Porta Sant’Agostino, Quartiere Cittanova, Centro Storico, Modena, MO, Emilia-Romagna, 41121, Italy		10.9210346	44.6482469	
+afor_av_angelo-fantoni_02	Germania		PL000124	Germania		10.4234469	51.0834196	
+afor_av_angelo-fantoni_02	Istituto tecnico		PL000130		a Modena -> il Corni	NotAvailable	NotAvailable	
+afor_av_angelo-fantoni_02	Po		PL000191			NotAvailable	NotAvailable	
+afor_av_angelo-fantoni_02	Treno		PL000247		ferrovia del Villaggio	NotAvailable	NotAvailable	
+afor_av_angelo-fantoni_02	Tripoli		PL000249	Tripoli, Libya 		13.1777923	32.896672	
+afor_av_angelo-fantoni_02	Venezia		PL000253	Venezia, Italy		12.3345898	45.4371908	
+afor_av_angelo-fantoni_02	Via cesare costa		PL000257	via Cesare Costa, modena		10.9119155	44.6568188	
+afor_av_angelo-fantoni_02	Vignola		PL000278	Vignola, Unione di comuni Terre di Castelli, MO, Emilia-Romagna, 41058, Italy (		11.0090928	44.4784141	
+afor_av_angelo-fantoni_02	Zuccherificio		PL000284		in Somalia (ex Villaggio Duca degli Abruzzi)	NotAvailable	NotAvailable	
+afor_av_annamaria-vincenzi_01	Bar		PL000019		di fronte alla fabbrica sede delle scuole	NotAvailable	NotAvailable	
+afor_av_annamaria-vincenzi_01	Coris		PL000081			NotAvailable	NotAvailable	
+afor_av_annamaria-vincenzi_01	Distributore		PL000090		al Villaggio	NotAvailable	NotAvailable	
+afor_av_annamaria-vincenzi_01	Elementari		PL000093		parla delle vecchie elementari (sopra all'Indusnova?)	NotAvailable	NotAvailable	
+afor_av_annamaria-vincenzi_01	Fabbrica		PL000098		indusnova? era sede di una scuola	NotAvailable	NotAvailable	
+afor_av_annamaria-vincenzi_01	Materne		PL000147		scuola materna del villaggio dove ora c'è l'Emilio Po	NotAvailable	NotAvailable	
+afor_av_annamaria-vincenzi_01	Mcdonald		PL000150			NotAvailable	NotAvailable	
+afor_av_annamaria-vincenzi_01	Reggio		PL000200			NotAvailable	NotAvailable	
+afor_av_annamaria-vincenzi_01	Scuola di via nicoli		PL000221			NotAvailable	NotAvailable	
+afor_av_annamaria-vincenzi_01	Sigma		PL000231		dice qui non c'era il sigma -> lo usa come esempio?	NotAvailable	NotAvailable	
+afor_av_annamaria-vincenzi_01	Via nicoli		PL000268	Via Nicoli, modena		10.9121646	44.6449469	
+afor_av_annamaria-vincenzi_01	Via palestro		PL000271	Via Palestro, modena		10.7754903	44.5470555	
+afor_av_carlo-candi_01	Accademia		PL000001		accademia in p.zza a Firenze	NotAvailable	NotAvailable	
+afor_av_carlo-candi_01	Atene		PL000014	atene, grecia		23.7279843	37.9841493	
+afor_av_carlo-candi_01	Battistero bizantino		PL000023	Piazza Campo, 88832 Santa Severina KR	a Santa Severina	16.9150324903434	39.1476519	
+afor_av_carlo-candi_01	Brera		PL000026	brera, italy		9.1877351	45.4715187	
+afor_av_carlo-candi_01	Calabria		PL000030	calabria, italy		16.5249864	39.0565974	
+afor_av_carlo-candi_01	Castello		PL000047		a Santa Severina 	NotAvailable	NotAvailable	
+afor_av_carlo-candi_01	Castello svevo		PL000049		a Santa Severina	NotAvailable	NotAvailable	
+afor_av_carlo-candi_01	Catanzaro		PL000050	catanzaro, italy		16.5960465	38.9076353	
+afor_av_carlo-candi_01	Chiesa		PL000055		a Santa Severina	NotAvailable	NotAvailable	
+afor_av_carlo-candi_01	Circolo		PL000062		al Villaggio	NotAvailable	NotAvailable	
+afor_av_carlo-candi_01	Circolo arci		PL000063		circolo di Miriam	NotAvailable	NotAvailable	
+afor_av_carlo-candi_01	Comunale		PL000071		a Firenze	NotAvailable	NotAvailable	
+afor_av_carlo-candi_01	Conservatorio cherubini		PL000073	Conservatorio Luigi Cherubini, Via di Rocca Tedalda, Quartiere 2, Florence, Metropolitan City of Florence, Tuscany, 50136, Italy	a Firenze	11.3166272	43.7674894	
+afor_av_carlo-candi_01	Crotone		PL000086	Corso Cavour		9.8169172	44.1060316	
+afor_av_carlo-candi_01	Duomo		PL000092		di Firenze	NotAvailable	NotAvailable	
+afor_av_carlo-candi_01	Fiesole		PL000108	fiesole, italy		11.2930735	43.8066689	
+afor_av_carlo-candi_01	Firenze		PL000111	Firenze, italy		11.2555757	43.7698712	
+afor_av_carlo-candi_01	Fiumalbo		PL000112	Fiumalbo, Unione dei comuni del Frignano, MO, Emilia-Romagna, 41022, Italy		10.6477331	44.1799513	
+afor_av_carlo-candi_01	O' spuntune		PL000170		a Santa Severina	NotAvailable	NotAvailable	
+afor_av_carlo-candi_01	Pista sportiva		PL000190		la Fratellanza	NotAvailable	NotAvailable	
+afor_av_carlo-candi_01	Pozzoleo		PL000197	Chiesetta del Pozzoleo / Santa Filomena, Discesa Pozzoleo, Santa Severina, KR, Calabria, 88832, Italy		16.91544565	39.1470277	
+afor_av_carlo-candi_01	Sede		PL000226		OvestLab	NotAvailable	NotAvailable	
+afor_av_carlo-candi_01	Sibari		PL000229			NotAvailable	NotAvailable	
+afor_av_carlo-candi_01	Siberene		PL000230			NotAvailable	NotAvailable	
+afor_av_carlo-candi_01	Università		PL000250		a Firenze (attigua all'Accademia)	NotAvailable	NotAvailable	
+afor_av_carlo-candi_01	Via emilia		PL000265		luogo in cui si svolgeva la festa de l'Unità	NotAvailable	NotAvailable	
+afor_av_carlo-candi_01	Via ricasoli		PL000273	via Ricasoli, firenze	a Firenze	11.2583332	43.7765114	
+afor_av_ermanno-salvalai-e-alberto-salvalai_01	Corassori		PL000079			NotAvailable	NotAvailable	
+afor_av_ermanno-salvalai-e-alberto-salvalai_01	Corni		PL000082			NotAvailable	NotAvailable	
+afor_av_ermanno-salvalai-e-alberto-salvalai_01	Fiori		PL000110			NotAvailable	NotAvailable	
+afor_av_ermanno-salvalai-e-alberto-salvalai_01	Mobili uniti		PL000156			NotAvailable	NotAvailable	
+afor_av_ermanno-salvalai-e-alberto-salvalai_01	Silvestri		PL000233			NotAvailable	NotAvailable	
+afor_av_ermanno-salvalai-e-alberto-salvalai_01	Via san cataldo		PL000275	strada San Cataldo, modena		10.9071233	44.6547627	
+afor_av_ermanno-salvalai-e-alberto-salvalai_02	America		PL000011			-100.4458825	39.7837304	
+afor_av_ermanno-salvalai-e-alberto-salvalai_02	Anzola		PL000006	anzola dell’emilia		11.194608	44.546367	
+afor_av_ermanno-salvalai-e-alberto-salvalai_02	Caprari		PL000038	Via Emilia Ovest, 900, 41123 Modena MO		10.8802125	44.6563443	
+afor_av_ermanno-salvalai-e-alberto-salvalai_02	Cifa		PL000059			NotAvailable	NotAvailable	
+afor_av_ermanno-salvalai-e-alberto-salvalai_02	Cinema principe		PL000061	Piazza Natale Bruni, 41121 Modena MO		10.9338828866439	44.6514181	
+afor_av_ermanno-salvalai-e-alberto-salvalai_02	Distributore		PL000091			NotAvailable	NotAvailable	
+afor_av_ermanno-salvalai-e-alberto-salvalai_02	Erma		PL000095	Via Emilia Ovest, 910, 41123 Modena MO		10.8797523	44.6561538	
+afor_av_ermanno-salvalai-e-alberto-salvalai_02	Ferramenta		PL000102			NotAvailable	NotAvailable	
+afor_av_ermanno-salvalai-e-alberto-salvalai_02	Giappone		PL000285			139.2394179	36.5748441	
+afor_av_ermanno-salvalai-e-alberto-salvalai_02	Malagoli		PL000141			NotAvailable	NotAvailable	
+afor_av_ermanno-salvalai-e-alberto-salvalai_02	Masoni rinaldi		PL000146			NotAvailable	NotAvailable	
+afor_av_ermanno-salvalai-e-alberto-salvalai_02	Mensa		PL000153			NotAvailable	NotAvailable	
+afor_av_ermanno-salvalai-e-alberto-salvalai_02	Ottani		PL000172			NotAvailable	NotAvailable	
+afor_av_ermanno-salvalai-e-alberto-salvalai_02	Pecorari		PL000186			NotAvailable	NotAvailable	
+afor_av_eugenio-ronchetti_02	Biblioteca		PL000024		in via de' Gavasseti - di fianco all'ex sede Mbm	NotAvailable	NotAvailable	
+afor_av_eugenio-ronchetti_02	Cortile		PL000085		cortile della chiesa	NotAvailable	NotAvailable	
+afor_av_eugenio-ronchetti_02	Oratorio		PL000171			NotAvailable	NotAvailable	
+afor_av_eugenio-ronchetti_02	Sala		PL000208		della parrocchia	NotAvailable	NotAvailable	
+afor_av_eugenio-ronchetti_02	Sezione		PL000227		del PCI lungo via Emilio Po	NotAvailable	NotAvailable	
+afor_av_eugenio-ronchetti_02	Via emilio po		PL000266	via emilio po, modena		10.8996773	44.6499936	
+afor_av_eugenio-ronchetti_02	Vietnam		PL000277	vietnam		108.4265113	13.2904027	
+afor_av_eugenio-ronchetti_03	Centro civico		PL000054		sempre in via de' Gavasseti	NotAvailable	NotAvailable	
+afor_av_eugenio-ronchetti_05	Scuola elementare		PL000222		scuola Emilio Po	NotAvailable	NotAvailable	
+afor_av_eugenio-ronchetti_05	Via de' gavasseti		PL000261	via de' Gavasseti, modena		10.9029844	44.6509088	
+afor_av_eugenio-ronchetti_06	Tric e trac		PL000248	380, Via Leopoldo Nobili, Villaggio Artigiano, San Faustino-Madonnina-Quattroville, Modena, MO, Emilia-Romagna, 41126, Italy 		10.8875588	44.6487603	
+afor_av_miriam-tirincanti_01	Asilo		PL000010	Via Giovanni Antonio Scacciera, Villaggio Artigiano, San Faustino-Madonnina-Quattroville, Modena, MO, Emilia-Romagna, 41123, Italy	al Villaggio -> intende scuole materne	10.9026111	44.6534738	
+afor_av_miriam-tirincanti_01	Assisi		PL000013	Assisi, PG, Umbria, 06081, Italy		12.6146669	43.0711952	
+afor_av_miriam-tirincanti_01	Buon pastore		PL000029		corsetteria in Buon Pastore	NotAvailable	NotAvailable	
+afor_av_miriam-tirincanti_01	Carpi		PL000039	carpi, italy		10.8854523	44.7835699	
+afor_av_miriam-tirincanti_01	Cognento		PL000068	Cognento, MO, Emilia-Romagna, 41123, Italy		10.8684742	44.6375948	
+afor_av_miriam-tirincanti_01	Coop		PL000074		ex coop del Villaggio	NotAvailable	NotAvailable	
+afor_av_miriam-tirincanti_01	Eurospar		PL000097		di fianco al cavalcavia della Madonnina	NotAvailable	NotAvailable	
+afor_av_miriam-tirincanti_01	Falc		PL000100			NotAvailable	NotAvailable	
+afor_av_miriam-tirincanti_01	Grandemilia		PL000126	Centro Commerciale GrandEmilia, Viale Catullo, Cittanova, San Faustino-Madonnina-Quattroville, Modena, MO, Emilia-Romagna, 41123, Italy 		10.854068767777	44.6484094	
+afor_av_miriam-tirincanti_01	Lattaia		PL000133		sempre al villaggio	NotAvailable	NotAvailable	
+afor_av_miriam-tirincanti_01	Nido		PL000166		asilo nido del Villaggio	NotAvailable	NotAvailable	
+afor_av_miriam-tirincanti_01	Scuola		PL000220		del Villaggio (Emilio Po o le vecchie?)	NotAvailable	NotAvailable	
+afor_av_miriam-tirincanti_01	Via wiligelmo		PL000276	via Wiligelmo, modena		10.9125447	44.6362149	
+afor_av_miriam-tirincanti_02	Corso cavour		PL000084			NotAvailable	NotAvailable	
+afor_av_miriam-tirincanti_02	Emilia		PL000094			NotAvailable	NotAvailable	
+afor_av_miriam-tirincanti_02	Fratellanza		PL000120	Associazione Sportiva La Fratellanza, 76, Via Alfonso Piazza, Villaggio Artigiano, San Faustino-Madonnina-Quattroville, Modena, MO, Emilia-Romagna, 41126, Italy		NotAvailable	NotAvailable	
+afor_av_miriam-tirincanti_02	Novi sad		PL000169			NotAvailable	NotAvailable	
+afor_av_miriam-tirincanti_02	Romagna		PL000205	Romagna, Modigliana, Unione di Comuni della Romagna Forlivese, FC, Emilia-Romagna, 47015, Italy		11.8473191022401	44.13497265	
+afor_av_miriam-tirincanti_02	Via albinelli		PL000254	Via Luigi Albinelli, Quartiere Baggiovara, Centro Storico, Modena, MO, Emilia-Romagna, 41121, Italy		10.9252456	44.6449541	
+afor_av_miriam-tirincanti_02	Via corassori		PL000259	via Corassori, modena		10.8986136	44.6429972	
+afor_av_paola-nora-e-annamaria-valentini_01	Arbe		PL000008	Via Emilia Ovest, 1014, 41123 Modena MO	fabbrica alla Bruciata dove adesso c'e Bricoman	10.8718612	44.6534714	
+afor_av_paola-nora-e-annamaria-valentini_01	Autodromo		PL000016	Parco Enzo Ferrari, modena		10.9074604877685	44.6499674	
+afor_av_paola-nora-e-annamaria-valentini_01	Autotrasporti		PL000017		ditta di autotrasporti dietro casa Nora	NotAvailable	NotAvailable	
+afor_av_paola-nora-e-annamaria-valentini_01	Azienda		PL000018		isola ecologica in via Nobili	NotAvailable	NotAvailable	
+afor_av_paola-nora-e-annamaria-valentini_01	Bar		PL000020		non precisato	NotAvailable	NotAvailable	
+afor_av_paola-nora-e-annamaria-valentini_01	Barbiere		PL000021		non precisato	NotAvailable	NotAvailable	
+afor_av_paola-nora-e-annamaria-valentini_01	Bricoman		PL000027	Via Emilia Ovest, 1014, 41123 Modena MO		10.8718612	44.6534714	
+afor_av_paola-nora-e-annamaria-valentini_01	Bruciata		PL000028	bruciata, modena		10.8674658	44.6508604	
+afor_av_paola-nora-e-annamaria-valentini_01	Campo		PL000032		oltre via nobili, oltre il canale	NotAvailable	NotAvailable	
+afor_av_paola-nora-e-annamaria-valentini_01	Canale		PL000035		in fondo a via nobili	NotAvailable	NotAvailable	
+afor_av_paola-nora-e-annamaria-valentini_01	Canale san pietro		PL000036		in zona Morane (Modena)	NotAvailable	NotAvailable	
+afor_av_paola-nora-e-annamaria-valentini_01	Casa di cura fogliani		PL000043	Via Lodovico Lana, 1, 41124 Modena MO		10.9171507	44.6417407	
+afor_av_paola-nora-e-annamaria-valentini_01	Case popolari		PL000044		del villaggio	NotAvailable	NotAvailable	
+afor_av_paola-nora-e-annamaria-valentini_01	Cavalcavia		PL000051		della Madonnina	NotAvailable	NotAvailable	
+afor_av_paola-nora-e-annamaria-valentini_01	Centro		PL000052		centro di Modena	NotAvailable	NotAvailable	
+afor_av_paola-nora-e-annamaria-valentini_01	Centro anziani		PL000053		intendono il circolo di Miriam?	NotAvailable	NotAvailable	
+afor_av_paola-nora-e-annamaria-valentini_01	Chiesa		PL000056		chiesa del Villaggio	NotAvailable	NotAvailable	
+afor_av_paola-nora-e-annamaria-valentini_01	Chiesa grande		PL000057		parrocchia di Gesu redentore	NotAvailable	NotAvailable	
+afor_av_paola-nora-e-annamaria-valentini_01	Comune		PL000072			NotAvailable	NotAvailable	
+afor_av_paola-nora-e-annamaria-valentini_01	Cooperativa		PL000075			NotAvailable	NotAvailable	
+afor_av_paola-nora-e-annamaria-valentini_01	Cooperativa fonditori		PL000077			NotAvailable	NotAvailable	
+afor_av_paola-nora-e-annamaria-valentini_01	Cooperativa tipografi		PL000078			NotAvailable	NotAvailable	
+afor_av_paola-nora-e-annamaria-valentini_01	Fabbro		PL000099			NotAvailable	NotAvailable	
+afor_av_paola-nora-e-annamaria-valentini_01	Falegnami		PL000101		probabilmente i Candi	NotAvailable	NotAvailable	
+afor_av_paola-nora-e-annamaria-valentini_01	Ferrari		PL000104			NotAvailable	NotAvailable	
+afor_av_paola-nora-e-annamaria-valentini_01	Fonderia di modena		PL000114	Via Giuseppe Zarlati, 84, 41126 Modena MO		10.8961538	44.6513095	
+afor_av_paola-nora-e-annamaria-valentini_01	Fonderie		PL000115			NotAvailable	NotAvailable	
+afor_av_paola-nora-e-annamaria-valentini_01	Formigine		PL000117	Formigine, Unione dei comuni del Distretto Ceramico, MO, Emilia-Romagna, 41043, Italy 		10.8458355	44.5776259	
+afor_av_paola-nora-e-annamaria-valentini_01	Lar		PL000132	Via Viareggio, Campogalliano, Unione delle Terre d'Argine, MO, Emilia-Romagna, 41011, Italy		10.8137524	44.6935657	
+afor_av_paola-nora-e-annamaria-valentini_01	Latteria		PL000134			NotAvailable	NotAvailable	
+afor_av_paola-nora-e-annamaria-valentini_01	Magistrali		PL000140			NotAvailable	NotAvailable	
+afor_av_paola-nora-e-annamaria-valentini_01	Mensa		PL000152			NotAvailable	NotAvailable	
+afor_av_paola-nora-e-annamaria-valentini_01	Musto		PL000162			NotAvailable	NotAvailable	
+afor_av_paola-nora-e-annamaria-valentini_01	Negozio di generi alimentari		PL000164			NotAvailable	NotAvailable	
+afor_av_paola-nora-e-annamaria-valentini_01	Parchetto		PL000177			NotAvailable	NotAvailable	
+afor_av_paola-nora-e-annamaria-valentini_01	Parrocchia		PL000182			NotAvailable	NotAvailable	
+afor_av_paola-nora-e-annamaria-valentini_01	Parrocchia nuova		PL000184			NotAvailable	NotAvailable	
+afor_av_paola-nora-e-annamaria-valentini_01	Passaggio a livello		PL000185			NotAvailable	NotAvailable	
+afor_av_paola-nora-e-annamaria-valentini_01	Ponte		PL000193			NotAvailable	NotAvailable	
+afor_av_paola-nora-e-annamaria-valentini_01	Ponzoni		PL000195			NotAvailable	NotAvailable	
+afor_av_paola-nora-e-annamaria-valentini_01	Posta		PL000196			NotAvailable	NotAvailable	
+afor_av_paola-nora-e-annamaria-valentini_01	Rossi motoriduttori		PL000206			NotAvailable	NotAvailable	
+afor_av_paola-nora-e-annamaria-valentini_01	Salami oleodinamica		PL000212	Via Emilia Ovest, 1006, 41123 Modena MO		10.8737166	44.6535794	
+afor_av_paola-nora-e-annamaria-valentini_01	Scuola elementare		PL000223			NotAvailable	NotAvailable	
+afor_av_paola-nora-e-annamaria-valentini_01	Sio		PL000234			NotAvailable	NotAvailable	
+afor_av_paola-nora-e-annamaria-valentini_01	Sternieri		PL000239	Via David Livingstone, 5, 41123 Modena MO		10.8854694	44.6552124	
+afor_av_paola-nora-e-annamaria-valentini_01	Storchi		PL000240	Teatro Storchi, 15, Largo Giuseppe Garibaldi, Quartiere Albareto, Centro Storico, Modena, MO, Emilia-Romagna, 41124, Italy (		NotAvailable	NotAvailable	
+afor_av_paola-nora-e-annamaria-valentini_01	Tabaccheria		PL000241			NotAvailable	NotAvailable	
+afor_av_paola-nora-e-annamaria-valentini_01	Via bonacini		PL000255	Via bonacini, modena		10.9411256	44.6424015	
+afor_av_paola-nora-e-annamaria-valentini_01	Via cavour		PL000256	Corso Camillo Benso di Cavour, Addizione Erculea, Centro Storico, Modena, MO, Emilia-Romagna, 41121, Italy 		10.9298475	44.649377	
+afor_av_paola-nora-e-annamaria-valentini_01	Via cesare della chiesa		PL000258	via Cesare della Chiesa, modena		10.8972134	44.6507474	
+afor_av_paola-nora-e-annamaria-valentini_01	Via leoni		PL000267	via Leoni, modena		10.9023159	44.6535927	
+afor_av_paola-nora-e-annamaria-valentini_01	Via nicolò biondo		PL000269	via Nicolò Biondo, modena		10.8997427	44.6521154	
+afor_av_paola-nora-e-annamaria-valentini_01	Via nobili		PL000270	via Nobili, modena		10.8998335	44.6479911	
+afor_av_paola-nora-e-annamaria-valentini_01	Via prati		PL000272	Via Renato Prati, modena		10.9037976	44.6500687	
+afor_av_paola-nora-e-annamaria-valentini_01	Via rinaldi		PL000274	Via Tommaso Rinaldi, modena		10.9006431	44.6532794	
+afor_av_paola-nora-e-annamaria-valentini_01	Villaggio artigiano modena est		PL000281			NotAvailable	NotAvailable	
+afor_av_paola-nora-e-annamaria-valentini_01	Villaggio giardino		PL000282	Villaggio Giardino, San Faustino-Madonnina-Quattroville, Modena, MO, Emilia-Romagna, 41128, Italy 		10.8942871	44.6425679	
+afor_av_paola-nora-e-annamaria-valentini_02	Ferrovia		PL000105			NotAvailable	NotAvailable	
+afor_av_rita-ronchetti_01	Bologna		PL000025	bologna, italy		11.3430347	44.4936714	
+afor_av_rita-ronchetti_01	Cile		PL000060	Chile		-71.3187697	-31.7613365	
+afor_av_rita-ronchetti_01	Dams		PL000087	DAMS, Via Collegio di Spagna, Saragozza-Porto, Bologna, BO, Emilia-Romagna, 40123, Italy 		11.3390538601447	44.4911621	
+afor_av_rita-ronchetti_01	Fiat		PL000106			NotAvailable	NotAvailable	
+afor_av_rita-ronchetti_01	Freto		PL000121	Freto, MO, Emilia-Romagna, 41123, Italy		10.8906262	44.6712409	
+afor_av_rita-ronchetti_01	Gaiato		PL000122	Gaiato, Pavullo nel Frignano, Unione dei comuni del Frignano, MO, Emilia-Romagna, Italy 		10.8406698	44.2910524	
+afor_av_rita-ronchetti_01	Grecia		PL000127	Grecia		21.9877132	38.9953683	
+afor_av_rita-ronchetti_01	Pontedera		PL000194	Pontedera, Italy		10.6354851	43.6634536	
+afor_av_rita-ronchetti_01	Quartiere		PL000199			NotAvailable	NotAvailable	
+afor_av_rita-ronchetti_01	Repubblica di montefiorino		PL000202			NotAvailable	NotAvailable	
+afor_av_rita-ronchetti_01	Sala civica		PL000209			NotAvailable	NotAvailable	
+afor_av_rita-ronchetti_01	Sala di quartiere		PL000210			NotAvailable	NotAvailable	
+afor_av_rita-ronchetti_01	San carlo		PL000213	Via S. Carlo, 5, 41121 Modena MO		10.9273017	44.645538	
+afor_av_rita-ronchetti_01	Taizé		PL000242	Taizé, Bressuire, Deux-Sèvres, New Aquitaine, Metropolitan France, 79100, France		-0.1168552	46.924477	
+afor_av_rita-ronchetti_01	Teatro comunale		PL000243	Teatro comunale Luciano Pavarotti, 8, Via Del Teatro, Quartiere Albareto, Centro Storico, Modena, MO, Emilia-Romagna, 41121, Italy 		NotAvailable	NotAvailable	
+afor_av_rita-ronchetti_01	Via corridore 50		PL000260	Via Girolamo Corridore, 50, modena		10.8994668	44.6469515	
+afor_av_rita-ronchetti_01	Via degli ulivi		PL000262			NotAvailable	NotAvailable	
+afor_av_rita-ronchetti_01	Via del pratello		PL000264	via del pratello, bologna		11.3287167	44.4954124	
+afor_av_rita-ronchetti_01	Villaggio		PL000279			NotAvailable	NotAvailable	
+afor_av_rita-ronchetti_01	Villaggio artigiano		PL000280	Villaggio Artigiano, San Faustino-Madonnina-Quattroville, Modena, MO, Emilia-Romagna, 41123, Italy 		10.8972657	44.6513441	
+afor_av_sandro-vesce_01	Arcivescovado		PL000009	Corso Duomo, 34, 41121 Modena MO	arcivescovado di Modena	10.9247818	44.6464014	
+afor_av_sandro-vesce_01	Bassa		PL000022			NotAvailable	NotAvailable	
+afor_av_sandro-vesce_01	Canalchiaro		PL000034	corso canalchiaro, modena		10.923256	44.6451911	
+afor_av_sandro-vesce_01	Chiesina		PL000058			NotAvailable	NotAvailable	
+afor_av_sandro-vesce_01	Città		PL000066			NotAvailable	NotAvailable	
+afor_av_sandro-vesce_01	Collegio		PL000070			NotAvailable	NotAvailable	
+afor_av_sandro-vesce_01	Diocesi di modena		PL000089			NotAvailable	NotAvailable	
+afor_av_sandro-vesce_01	Fidenza		PL000107	fidenza, italy		10.0611939	44.866522	
+afor_av_sandro-vesce_01	Fossa		PL000118			NotAvailable	NotAvailable	
+afor_av_sandro-vesce_01	Gino nasi		PL000125	Via Tarquinia, 55, 41125 Modena MO		10.9373816	44.6222428	
+afor_av_sandro-vesce_01	Gregoriana		PL000128			NotAvailable	NotAvailable	
+afor_av_sandro-vesce_01	Liceo classico		PL000136			NotAvailable	NotAvailable	
+afor_av_sandro-vesce_01	Modena est		PL000158			NotAvailable	NotAvailable	
+afor_av_sandro-vesce_01	Naviglio		PL000163			NotAvailable	NotAvailable	
+afor_av_sandro-vesce_01	Sezione		PL000228			NotAvailable	NotAvailable	
+afor_av_sandro-vesce_01	Torrazzi		PL000244	Torrazzi, Modena, MO, Emilia-Romagna, 41122, Italy 		10.963492	44.6606606	
+afor_av_sandro-vesce_01	Tre olmi		PL000245	Tre Olmi, San Faustino-Madonnina-Quattroville, Modena, MO, Emilia-Romagna, 41123, Italy (		10.8734342621091	44.6674171	
+afor_av_sandro-vesce_01	Tre re		PL000246	Via Tre Re, Quartiere Baggiovara, Centro Storico, Modena, MO, Emilia-Romagna, 41121, Italy 		10.9233344	44.6437922	
+afor_av_sandro-vesce_01	Università		PL000251			NotAvailable	NotAvailable	
+afor_av_sandro-vesce_01	Università gregoriana		PL000252	Pontifical Gregorian University, 4, Piazza della Pilotta, Municipio Roma I, Rome, RM, Lazio, 00187, Italy (		NotAvailable	NotAvailable	
+afor_av_sandro-vesce_01	Via del gambero		PL000263	Via del Gambero, Modena, MO		10.937508	44.6395163	
+afor_av_sandro-vesce_01	Vivinatura		PL000283			NotAvailable	NotAvailable	
+afor_av_sandro-vesce_02	Cam		PL000031	Via Nicolò Biondo 89, Modena		10.9013686	44.6542114	
+afor_av_sandro-vesce_02	Carpigiani		PL000040			NotAvailable	NotAvailable	
+afor_av_sandro-vesce_02	Carrozzeria autodromo		PL000041	Via Nicolò Biondo 89, Modena		10.9013686	44.6542114	
+afor_av_sandro-vesce_02	Carrozzeria orlandi		PL000042			NotAvailable	NotAvailable	
+afor_av_sandro-vesce_02	Castelfranco		PL000045	castelfranco emilia		11.0529006	44.5950245	
+afor_av_sandro-vesce_02	Cittadella		PL000067			NotAvailable	NotAvailable	
+afor_av_sandro-vesce_02	Cooperativa autodromo		PL000076			NotAvailable	NotAvailable	
+afor_av_sandro-vesce_02	Francia		PL000119	France		1.8883335	46.603354	
+	Indusonva		PL000129			NotAvailable	NotAvailable	
+	Italia		PL000131	Italia		12.674297	42.6384261	
+	Libia		PL000135	libia		18.1236723	26.8234472	
+	Liceo tassoni		PL000137	Liceo Scientifico Statale Alessandro Tassoni, 66, Viale Virginia Reiter, Quartiere Albareto, Centro Storico, Modena, MO, Emilia-Romagna, 41121, Italy		NotAvailable	NotAvailable	
+	Madonna pellegrina		PL000138	Madonna Pellegrina, Viale Don Giovanni Minzoni, Buon Pastore-Sant'Agnese-San Damaso, Modena, MO, Emilia-Romagna, 41125, Italy		10.9247681192572	44.63401655	
+	Madonnina		PL000139	Madonnina, Modena, MO, Emilia-Romagna, 41123, Italy		10.8985687	44.6572947	
+	Maldive		PL000142	Maldive		73.3287853	4.7064352	
+	Mantova		PL000143	Mantova, Italy		10.7917191	45.1566683	
+	Marche		PL000144	Marche, Italy		13.1415872	43.3458388	
+	Maserati		PL000145	Maserati Store and Showroom, Via Divisione Acqui, Torrenova, Crocetta-San Lazzaro-Modena Est, Modena, MO, Emilia-Romagna, 41121, Italy 		10.94015	44.6491283	
+	Matic elettra		PL000148	Via Nicolò Biondo 90, Modena		10.9010916	44.6542251	
+	Mbm		PL000149	via de' gavasseti 67, modena	maglificio, ex sede in via de Gavasseti	10.902386	44.6509988	
+	Medaglie d'oro		PL000151	Viale Medaglie D'Oro, Buon Pastore-Sant'Agnese-San Damaso, Modena, MO, Emilia-Romagna, 41124, Italy		10.9302164	44.6367248	
+	Mercato albinelli		PL000154	Mercato Coperto Albinelli, 13, Via Luigi Albinelli, Quartiere Baggiovara, Centro Storico, Modena, MO, Emilia-Romagna, 41121, Italy		NotAvailable	NotAvailable	
+	Milano		PL000155	Milano, Italy		9.1904984	45.4667971	
+	Modena		PL000157	Modena, italy		10.9255707	44.6458885	
+	Moma		PL000160	MoMA (Museum Of Modern Art), 11, West 53rd Street, Diamond District, Midtown, Manhattan, Manhattan Community Board 5, New York County, New York City, New York, 10019, USA	a New York	NotAvailable	NotAvailable	
+	Morane		PL000161	Morane, Strada Morane, Buon Pastore-Sant'Agnese-San Damaso, Modena, MO, Emilia-Romagna, 41125, Italy		10.9348042	44.6152699	
+	New york		PL000165	New York		-73.9871558	40.7308619	
+	Nonantola		PL000167	Nonantola, Italy		11.0436236	44.6776083	
+	Nord africa		PL000168			NotAvailable	NotAvailable	
+	Ovestlab		PL000173	Via Nicolò Biondo 86, Modena		10.9011459	44.6543412	
+	Palazzetto dello sport		PL000174	Palazzo dello Sport Palapanini, 25, Viale Dello Sport, Torrenova, Crocetta-San Lazzaro-Modena Est, Modena, MO, Emilia-Romagna, 41122, Italy		NotAvailable	NotAvailable	
+	Panaro		PL000175			NotAvailable	NotAvailable	
+	Panini		PL000176	Via Emilio Po, 380, 41126 Modena MO		10.8990901	44.6493163	
+	Parco ferrari		PL000179	Parco Enzo Ferrari, Villaggio Artigiano, San Faustino-Madonnina-Quattroville, Modena, MO, Emilia-Romagna, Italy		10.9074604877685	44.6499674	
+	Parco sigurtà		PL000180	Parco Giardino Sigurtà, Viale dei Pini, Il Torrione, Valeggio sul Mincio, VR, Veneto, 37067, Italy		10.7341685713398	45.36145395	
+	Parma		PL000181	Parma, Italy		10.3280833	44.8013678	
+	Parrocchia della madonnina		PL000183	Via Pietro Alvarado, 19, 41123 Modena MO		10.8987884	44.6566849	
+	Pestalozzi		PL000187	Via Monte Grappa, 49, 41121 Modena MO	vecchio nome delle scuole materne in Monte Grappa	10.9402933	44.6475791	
+	Piazza mazzini		PL000188	Piazza Giuseppe Mazzini, Quartiere Albareto, Centro Storico, Modena, MO, Emilia-Romagna, 41121, Italy		10.9271115804774	44.6466959	
+	Piazza san marco		PL000189			NotAvailable	NotAvailable	
+	Polisportiva di san faustino		PL000192	Via Wiligelmo, 72, 41124 Modena MO		10.912137775641	44.63651305	
+	Provincia di modena		PL000198	MO, Emilia-Romagna, Italy		10.9359608705307	44.5384728	
+	Reggio emilia		PL000201	Reggio Emilia, Italy		10.6304958	44.6978446	
+	Riccione		PL000203	Riccione, Italy		12.6474368	43.998274	
+	Roma		PL000204	Roma, Italy		12.4853384	41.894802	
+	Sacca		PL000207	Sacca, Modena, MO, Emilia-Romagna, 41121, Italy		10.9313857	44.6627322	
+	Sala parrocchiale della madonnina		PL000211	Via Pietro Alvarado, 19, 41123 Modena MO		10.8987884	44.6566849	
+	San cataldo		PL000214	Via San Cataldo, 41100 Modena MO		NotAvailable	NotAvailable	
+	San donnino		PL000215	San Donnino, Buon Pastore-Sant'Agnese-San Damaso, Modena, MO, Emilia-Romagna, Italy		NotAvailable	NotAvailable	
+	San faustino		PL000216	San Faustino, Modena, MO, Emilia-Romagna, 41124, Italy (		10.9115481	44.6401224	
+	Santa caterina		PL000217	Via Mar Mediterraneo, 80, 41122 Modena MO		10.9441033	44.6525374	
+	Santa severina		PL000218	Santa Severina, KR, Italy		16.9127762	39.1479012	
+	Sassuolo		PL000219	Sassuolo, Italy		10.7829023	44.5409769	
+	Scuola emilio po		PL000224	Scuola Primaria Statale Emilio Po, 89, Via Giovanni Antonio Scacciera, Villaggio Artigiano, San Faustino-Madonnina-Quattroville, Modena, MO,		NotAvailable	NotAvailable	
+	Sila		PL000232	Sila National Park, 437, Casali del Manco, CS, Calabria, Italy 		16.5074912220973	39.26001065	
+	Soliera		PL000235	Soliera, Italy		10.924393	44.7381035	
+	Somalia		PL000236	Somalia		49.083416	8.3676771	
+	Spezzano		PL000237	Spezzano, Via Statale, Crociale, Casa Palestro, Fiorano Modenese, Unione dei comuni del Distretto Ceramico, MO, Emilia-Romagna, 41042, Italy (		10.8405827	44.5333423	
+	Staggia		PL000238	Staggia Modenese, Unione Comuni Modenesi Area Nord, MO, Emilia-Romagna, 41036, Italy 		11.0526039	44.8028836	
+	afor_av_miriam-tirincanti_01	Miriam Tiricanti 01	IN000001			10.90377	44.653198	afor_av-miriam-tirincanti_01
+	afor_av_miriam-tirincanti_02	Miriam Tiricanti 02	IN000002			10.90377	44.653198	afor_av-miriam-tirincanti_02
+	afor_av_miriam-tirincanti-e-vittorio-candi_01	Miriam Tiricanti e Vittorio Candi 01	IN000003			10.90377	44.653198	
+	afor_av_paola-nora-e-annamaria-valentini_01	Paola Nora e Annamaria Valentini 01	IN000004			10.901417	44.65391	afor_av_paola-nora-e-annamaria-valentini_01
+	afor_av_paola-nora-e-annamaria-valentini_02	Paola Nora e Annamaria Valentini 02	IN000005			10.901417	44.65391	afor_av_paola-nora-e-annamaria-valentini_02
+	afor_av_rita-ronchetti_01	Rita Ronchetti 01	IN000006			10.9011459	44.6543412	afor_av-rita-ronchetti_01
+	afor_av_sandro-vesce_01	Sandro Vesce 01	IN000007			10.901084	44.650861	afor_av_sandro-vesce_01
+	afor_av_sandro-vesce_02	Sandro Vesce 02	IN000008			10.901773	44.654371	afor_av_sandro-vesce_02
+	afor_av_vittorio-candi_01	Vittorio Candi 01	IN000009			10.900737	44.654406	afor_av_vittorio-candi_01
+	afor_av_angelo-fantoni_02	Angelo Fantoni 02	IN000010			10.899878	44.653587	afor_av_angelo-fantoni_02
+	afor_av_carlo-candi_01	Carlo Candi 01	IN000011			10.899879	44.650135	afor_av_carlo-candi_01
+	afor_av_ermanno-salvalai-e-alberto-salvalai_01	Ermanno Salvalai e Alberto Salvalai 01	IN000012			10.894305	44.651143	afor_av_ermanno-salvalai-e-alberto-salvalai_01
+	afor_av_ermanno-salvalai-e-alberto-salvalai_02	Ermanno Salvalai e Alberto Salvalai 02	IN000013			10.894305	44.651143	afor_av_ermanno-salvalai-e-alberto-salvalai_02
+	afor_av_eugenio-ronchetti_01	Eugenio Ronchetti 01	IN000014			10.9011459	44.6543412	afor_av-eugenio-ronchetti_01
+	afor_av_eugenio-ronchetti_02	Eugenio Ronchetti 02	IN000015			10.899752	44.652157	afor_av-eugenio-ronchetti_02
+	afor_av_eugenio-ronchetti_03	Eugenio Ronchetti 03	IN000016			10.900491	44.651758	afor_av-eugenio-ronchetti_03
+	afor_av_eugenio-ronchetti_05	Eugenio Ronchetti 05	IN000017			10.901822	44.652992	afor_av-eugenio-ronchetti_05
+	afor_av_eugenio-ronchetti_06	Eugenio Ronchetti 06	IN000018			10.9011459	44.6543412	afor_av-eugenio-ronchetti_06
+	afor_av_gianmarino-meoni_01	Gian Marino Meoni 01	IN000019			10.9031855	44.6503823	afor_av_gianmarino-meoni_01
+	afor_av_annamaria-vincenzi_01	Annamaria Vincenzi	IN000020			10.9031855	44.6503823	afor_av_annamaria-vincenzi_01

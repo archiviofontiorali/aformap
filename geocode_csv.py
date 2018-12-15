@@ -1,16 +1,9 @@
 # -*- coding: utf-8 -*-
 import csv
 import re
-from pydrive.auth import GoogleAuth
-from pydrive.drive import GoogleDrive
 import geocoder
-import os
 import time
 import itertools
-import pygeoj
-import json
-from PIL import Image
-from shutil import copyfile
 
 '''
 The script assumes that the .csv file (derived from the Google Form spreadsheet v0.1) is structured as with the new "0.1" format, i.e.:
@@ -45,7 +38,7 @@ input_file = ('nodes.csv')
 
 output_file = open('nodes_geotagged.csv', 'a')
 writer = csv.writer(output_file)
-writer.writerow(['','name','id','address','descr','lat','lon','ialink'])
+writer.writerow(['utteredby','name','fullname','id','address','descr','lat','lon','ialink'])
 
 #Start reading the csv file
 with open(input_file, 'r', newline='') as input_file:
