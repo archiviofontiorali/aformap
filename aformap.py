@@ -14,7 +14,7 @@ m = folium.Map(location=[44.650837, 10.898436], zoom_start=16, max_zoom=19,attr=
 #   NODES
 ########################
 #idea from comment in https://georgetsilva.github.io/posts/mapping-points-with-folium/
-df = pd.read_csv('nodes_geotagged.csv', sep='\t')
+df = pd.read_csv('data/nodes_geotagged.csv', sep='\t')
 #print(df)
 
 
@@ -73,7 +73,7 @@ for point in range(0, len(locationlist)):
 
 edges = folium.FeatureGroup(name='Network')
 
-df_edges = pd.read_csv('edges.csv', sep='\t')
+df_edges = pd.read_csv('data/edges.csv', sep='\t')
 lines = df_edges[['from_lat', 'from_lon']]
 lineslist = lines.values.tolist()
 
