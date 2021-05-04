@@ -3,9 +3,9 @@ import time
 import geopy
 
 
-class GEOLocator:
-    def __init__(self):
-        self._language = "it"
+class GEODecoder:
+    def __init__(self, language):
+        self._language = language
         self._user_agent = "aformap/v0.1.0"
         self._locator = geopy.geocoders.Nominatim(user_agent=self._user_agent)
 

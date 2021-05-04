@@ -4,14 +4,13 @@ import progress.bar
 
 from .loaders import CSV
 from .models import Node
-from .services import GEOLocator
-
+from .services import GEODecoder
 
 DATA_PATH = Path("data")
 OUTPUT_PATH = Path("output")
 
 csv_loader = CSV(delimiter="\t", quotechar='"')
-geo_locator = GEOLocator()
+geo_locator = GEODecoder(language="it")
 
 # Read nodes
 nodes_path = DATA_PATH / "nodes_fixed.csv"
