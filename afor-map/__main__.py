@@ -5,9 +5,9 @@ from pathlib import Path
 
 @dataclasses.dataclass
 class Node:
+    id: str
     video_id: str
     name: str
-    id: str
     address: str
     description: str
 
