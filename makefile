@@ -11,6 +11,9 @@ bold := $(shell tput -T $(TERM) bold)
 sgr0 := $(shell tput -T $(TERM) sgr0)
 
 
+.PHONY: bootstrap
+bootstrap: venv develop
+
 .PHONY: clean
 clean:
 	@echo "$(bold)Clean up old virtualenv and cache$(sgr0)"
@@ -22,9 +25,10 @@ venv: clean
 	virtualenv -p /usr/bin/python$(PYTHON_VERSION) $(VENV)
 	$(PIP) install --upgrade pip setuptools
 
-.PHONY: bootstrap
-bootstrap: venv
-	@echo "$(bold)Prepare environment$(sgr0)"
+.PHONY: develop
+develop:
+	@echo "$(bold)Prepare development environment$(sgr0)"
+	$(PIP) install black isort
 	$(PIP) install folium
 
 .PHONY: run
