@@ -13,16 +13,22 @@ class Node:
 
 
 class CSV:
-    @staticmethod
-    def read(path, model) -> list:
+    def __init__(self, **opts):
+        self._opts = opts
+
+    def read(self, path, model, skip_header=True) -> list:
         with open(path, "rt") as csv_fp:
-            reader = csv.reader(csv_fp, delimiter='\t', quotechar='"')
-            header = next(reader)
+            reader = csv.reader(csv_fp, **self._opts)
+            if skip_header:
+                next(reader)
             return [model(*row) for row in reader]
 
 
-csv_loader = CSV()
+csv_loader = CSV(delimiter='\t', quotechar='"')
 
 
-input_path = Path("data/nodes_fixed.csv")
-nodes = csv_loader.read(input_path, Node)
+nodes_path = Path("data/nodes_fixed.csv")
+nodes = csv_loader.read(nodes_path, Node)
+
+for node in nodes:
+    print(node)
