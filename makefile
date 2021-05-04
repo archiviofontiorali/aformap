@@ -29,7 +29,7 @@ venv: clean
 develop:
 	@echo "$(bold)Prepare development environment$(sgr0)"
 	$(PIP) install black isort
-	$(PIP) install folium
+	$(PIP) install folium geopy progress
 
 .PHONY: run
 run: 
