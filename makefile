@@ -22,6 +22,11 @@ venv: clean
 	virtualenv -p /usr/bin/python$(PYTHON_VERSION) $(VENV)
 	$(PIP) install --upgrade pip setuptools
 
+.PHONY: bootstrap
+bootstrap: venv
+	@echo "$(bold)Prepare environment$(sgr0)"
+	$(PIP) install folium
+
 .PHONY: run
 run: 
 	$(VENV)/bin/python -m $(PACKAGE)
