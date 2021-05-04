@@ -2,7 +2,7 @@ import dataclasses
 
 
 @dataclasses.dataclass
-class Node:
+class Reference:
     id: str
     video_id: str
     name: str

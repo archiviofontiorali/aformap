@@ -2,44 +2,43 @@ import progress.bar
 
 from .constants import DATA_PATH, OUTPUT_PATH
 from .loaders import CSV
-from .models import Node
+from .models import Reference
 from .services import GEODecoder
 
 csv_loader = CSV(delimiter="\t", quotechar='"')
 geo_locator = GEODecoder(language="it")
 
 
-def set_nodes_coordinates(nodes):
-    """Set coordinates on each node."""
-    bar = progress.bar.IncrementalBar("Geocoding...", max=len(nodes))
-    for node in nodes:
-        if node.address:
-            node.latitude, node.longitude = geo_locator.geocode(node.address)
+def set_refs_coordinates(refs):
+    """Set coordinates on each ref."""
+    bar = progress.bar.IncrementalBar("Geocoding...", max=len(refs))
+    for ref in refs:
+        if ref.address:
+            ref.latitude, ref.longitude = geo_locator.geocode(ref.address)
         bar.next()
     else:
         bar.finish()
-    return nodes
+    return refs
 
 
 def run():
     """Main script."""
-    nodes_path = DATA_PATH / "nodes_fixed.csv"
-    geocoded_path = OUTPUT_PATH / "nodes_geocoded.csv"
+    refs_path = DATA_PATH / "refs.csv"
+    geocoded_path = OUTPUT_PATH / "refs_geocoded.csv"
 
-    nodes = csv_loader.read(nodes_path, Node)
+    refs = csv_loader.read(refs_path, Reference)
 
     if geocoded_path.exists():
-        geocoded_nodes = csv_loader.read(geocoded_path, Node)
+        geocoded_refs = csv_loader.read(geocoded_path, Reference)
     else:
-        nodes_header = ("id", "video_id", "name", "address", "description")
-        geocoded_header = nodes_header + ("latitude", "longitude")
+        refs_header = ("id", "video_id", "name", "address", "description")
+        geocoded_header = refs_header + ("latitude", "longitude")
 
-        set_nodes_coordinates(nodes)
+        set_refs_coordinates(refs)
 
-        geocoded_nodes = [node for node in nodes if node.has_coordinates]
-        csv_loader.write(geocoded_path, geocoded_header, geocoded_nodes)
+        geocoded_refs = [ref for ref in refs if ref.has_coordinates]
+        csv_loader.write(geocoded_path, geocoded_header, geocoded_refs)
 
-    for node in geocoded_nodes:
-        print(node.id, node.latitude, node.longitude)
+
 
 
