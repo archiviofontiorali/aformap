@@ -7,6 +7,14 @@ This project is based on three main objects:
 """
 
 import dataclasses
+from typing import List
+
+
+@dataclasses.dataclass
+class Place:
+    title: str
+    latitude: float
+    longitude: float
 
 
 @dataclasses.dataclass
@@ -16,32 +24,8 @@ class Interview:
     latitude: float = None
     longitude: float = None
 
+    places: List[Place] = dataclasses.field(default_factory=list)
+
     @property
     def url(self):
         return f"https://archive.org/details/{self.identifier}"
-
-
-# @dataclasses.dataclass
-# class Place:
-#     pass
-
-
-# @dataclasses.dataclass
-# class Link:
-#     pass
-
-
-# @dataclasses.dataclass
-# class Reference:
-#     id: str
-#     video_id: str
-#     name: str
-#     address: str
-#     description: str
-#
-#     latitude: float = None
-#     longitude: float = None
-#
-#     @property
-#     def has_coordinates(self):
-#         return (self.latitude is not None) and (self.longitude is not None)
