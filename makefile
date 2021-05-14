@@ -1,5 +1,5 @@
 PYTHON_VERSION=3
-PACKAGE=afor-map
+PACKAGE=aformap
 
 VENV=.venv
 SHELL=/bin/bash
