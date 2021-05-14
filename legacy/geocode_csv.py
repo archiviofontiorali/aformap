@@ -36,7 +36,7 @@ T = "Website (insert the link to your profile or page) MAX 1"
 # Change the input filename so that it matches the .csv file of the spreadsheet
 input_file = "nodes.csv"
 
-output_file = open("data/nodes_geotagged.csv", "a")
+output_file = open("nodes_geotagged.csv", "a")
 writer = csv.writer(output_file)
 writer.writerow(
     ["utteredby", "name", "fullname", "id", "address", "descr", "lat", "lon", "ialink"]
@@ -96,7 +96,7 @@ with open(input_file, "r", newline="") as input_file:
             ]
         )
 
-        with open("data/nodes_geotagged.csv", mode="a") as output_file:
+        with open("nodes_geotagged.csv", mode="a") as output_file:
             writer = csv.writer(output_file, delimiter="\t")
             writer.writerow(
                 [

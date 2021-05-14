@@ -10,12 +10,12 @@ from  collections import defaultdict
 
 input_file = ('nodes_geotagged.csv')
 
-output_file = open('data/edges.csv', 'a')
+output_file = open('../data/edges.csv', 'a')
 writer = csv.writer(output_file)
 writer.writerow(['from_id','to_id','from_lat','from_lon','to_lat','to_lon'])
 
 nodes_dict = defaultdict(list)
-with open("data/nodes_geotagged.csv", "r") as f:
+with open("nodes_geotagged.csv", "r") as f:
     reader = csv.DictReader(f, delimiter="\t")
     #next(reader)
     for row in reader:
