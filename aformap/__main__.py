@@ -1,10 +1,15 @@
+import dataclasses
+
 from typing import List
 
 import progress.bar
 
-from .constants import ARCHIVE_CREATOR, DATA_PATH
+from .constants import ARCHIVE_CREATOR, DATA_PATH, OUTPUT_PATH
 from .models import Interview, Place
 from .repos import CSV, JSON, InternetArchive
+
+DATA_PATH.mkdir(parents=True, exist_ok=True)
+OUTPUT_PATH.mkdir(parents=True, exist_ok=True)
 
 ia = InternetArchive(creator=ARCHIVE_CREATOR, media_type="movies")
 csv = CSV(delimiter="\t", quotechar='"')
@@ -41,4 +46,6 @@ else:
 
 
 # save as json
-print(interviews)
+output_path = OUTPUT_PATH / "map-data.json"
+interviews_as_dict = [dataclasses.asdict(interview) for interview in interviews]
+json.write(output_path, interviews_as_dict)
