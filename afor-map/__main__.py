@@ -1,4 +1,9 @@
-from .constants import ARCHIVE_CREATOR
+from typing import List
+
+import progress.bar
+
+from .constants import ARCHIVE_CREATOR, DATA_PATH
+from .models import Interview, Place
 from .repos import CSV, JSON, InternetArchive
 
 ia = InternetArchive(creator=ARCHIVE_CREATOR, media_type="movies")
@@ -6,8 +11,34 @@ csv = CSV(delimiter="\t", quotechar='"')
 json = JSON()
 
 
-# TODO: read data from edges.csv
-# TODO: extrapolate interviews informations
-# TODO: extrapolate places informations
-# TODO: retrieve from internetarchive missing informations (title)
-# TODO: save as json
+# Read data from legacy edges.csv
+legacy_edges_path = DATA_PATH / "edges.csv"
+legacy_edges = csv.read(legacy_edges_path, has_header=True)
+
+assert legacy_edges_path.exists(), legacy_edges_path
+assert isinstance(legacy_edges, list)
+assert len(legacy_edges) > 1
+assert all(isinstance(edge, list) for edge in legacy_edges), legacy_edges
+
+interviews: List[Interview] = []
+
+_bar = progress.bar.IncrementalBar("Parsing edges.csv", max=len(legacy_edges))
+for edge in legacy_edges:
+    # When a new identifier is found add a new interview and make active
+    if edge[0]:
+        _interview = ia.fetch_interview(edge[0])
+        _interview.latitude = edge[5]
+        _interview.longitude = edge[4]
+        interviews.append(_interview)
+
+    # Get information about place
+    place = Place(title=edge[1], latitude=edge[3], longitude=edge[2])
+    interviews[-1].places.append(place)
+
+    _bar.next()
+else:
+    _bar.finish()
+
+
+# save as json
+print(interviews)
