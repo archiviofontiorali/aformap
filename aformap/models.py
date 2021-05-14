@@ -13,16 +13,16 @@ from typing import List
 @dataclasses.dataclass
 class Place:
     title: str
-    latitude: float
-    longitude: float
+    lat: float
+    lon: float
 
 
 @dataclasses.dataclass
 class Interview:
     identifier: str  # internet archive `identifier`
     title: str  # internet archive `metadata.title`
-    latitude: float = None
-    longitude: float = None
+    lat: float = None
+    lon: float = None
 
     places: List[Place] = dataclasses.field(default_factory=list)
 

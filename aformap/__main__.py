@@ -30,12 +30,12 @@ for i, edge in enumerate(legacy_edges, 1):
     # When a new identifier is found add a new interview and make active
     if edge[0]:
         _interview = ia.fetch_interview(edge[0])
-        _interview.latitude = float(edge[5])
-        _interview.longitude = float(edge[4])
+        _interview.lat = float(edge[5])
+        _interview.lon = float(edge[4])
         interviews.append(_interview)
 
     # Get information about place
-    place = Place(title=edge[1], latitude=float(edge[3]), longitude=float(edge[2]))
+    place = Place(title=edge[1], lat=float(edge[3]), lon=float(edge[2]))
     interviews[-1].places.append(place)
     _bar.next()
 else:
