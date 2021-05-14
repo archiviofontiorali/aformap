@@ -46,7 +46,6 @@ class JSON:
             return json.load(fp, **self._opts)
 
     def write(self, path, obj):
-        obj = [dataclasses.asdict(o) for o in obj]
         with open(path, "wt") as fp:
             json.dump(obj, fp, **self._opts)
 
