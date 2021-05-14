@@ -30,18 +30,18 @@ class CSV:
                 writer.writerow(row)
 
 
-# class JSON:
-#     def __init__(self, **opts):
-#         self._opts = opts
-# 
-#     def read(self, path) -> dict:
-#         with open(path, "rt") as fp:
-#             return json.load(fp, **self._opts)
-# 
-#     def write(self, path, obj):
-#         obj = [dataclasses.asdict(o) for o in obj]
-#         with open(path, "wt") as fp:
-#             json.dump(obj, fp, **self._opts)
+class JSON:
+    def __init__(self, **opts):
+        self._opts = opts
+
+    def read(self, path) -> dict:
+        with open(path, "rt") as fp:
+            return json.load(fp, **self._opts)
+
+    def write(self, path, obj):
+        obj = [dataclasses.asdict(o) for o in obj]
+        with open(path, "wt") as fp:
+            json.dump(obj, fp, **self._opts)
 
 
 class InternetArchive:
@@ -55,7 +55,8 @@ class InternetArchive:
         _items = ia.search_items(_query)
         return [it["identifier"] for it in _items]
 
-    def fetch_item(self, identifier: str):
+    @staticmethod
+    def fetch_item(identifier: str):
         return ia.get_item(identifier)
 
     def fetch_interview(self, identifier: str) -> Interview:
