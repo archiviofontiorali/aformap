@@ -12,7 +12,7 @@ sgr0 := $(shell tput -T $(TERM) sgr0)
 
 
 .PHONY: bootstrap
-bootstrap: venv develop
+bootstrap: venv develop configure
 
 .PHONY: clean
 clean:
@@ -29,7 +29,12 @@ venv: clean
 develop:
 	@echo "$(bold)Prepare development environment$(sgr0)"
 	$(PIP) install black isort
-	$(PIP) install folium geopy progress
+	$(PIP) install internetarchive folium geopy progress
+
+.PHONY: configure
+configure:
+	@echo "$(bold)Set internet archive credential.$(sgr0)"
+	$(VENV)/bin/ia configure
 
 .PHONY: run
 run: 

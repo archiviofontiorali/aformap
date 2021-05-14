@@ -44,20 +44,20 @@ class CSV:
 #             json.dump(obj, fp, **self._opts)
 
 
-# class InternetArchive:
-#     def __init__(self, creator: str = None, media_type: str = None):
-#         self._creator = creator
-#         self._media_type = media_type
-# 
-#     def fetch_all(self):
-#         _query = f"creator:{self._creator} mediatype:{self._media_type}"
-#         print(_query)
-#         _items = ia.search_items(_query)
-#         return [it["identifier"] for it in _items]
-# 
-#     def fetch_item(self, identifier: str):
-#         return ia.get_item(identifier)
-# 
-#     def fetch_interview(self, identifier: str) -> Interview:
-#         item = self.fetch_item(identifier)
-#         return Interview(identifier=identifier, title=item.metadata["title"])
+class InternetArchive:
+    def __init__(self, creator: str = None, media_type: str = None):
+        self._creator = creator
+        self._media_type = media_type
+
+    def fetch_all(self):
+        _query = f"creator:{self._creator} mediatype:{self._media_type}"
+        print(_query)
+        _items = ia.search_items(_query)
+        return [it["identifier"] for it in _items]
+
+    def fetch_item(self, identifier: str):
+        return ia.get_item(identifier)
+
+    def fetch_interview(self, identifier: str) -> Interview:
+        item = self.fetch_item(identifier)
+        return Interview(identifier=identifier, title=item.metadata["title"])
