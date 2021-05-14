@@ -28,16 +28,16 @@ assert all(isinstance(edge, list) for edge in legacy_edges), legacy_edges
 interviews: List[Interview] = []
 
 _bar = progress.bar.IncrementalBar("Parsing edges.csv", max=len(legacy_edges))
-for edge in legacy_edges:
+for i, edge in enumerate(legacy_edges, 1):
     # When a new identifier is found add a new interview and make active
     if edge[0]:
         _interview = ia.fetch_interview(edge[0])
-        _interview.latitude = edge[5]
-        _interview.longitude = edge[4]
+        _interview.latitude = float(edge[5])
+        _interview.longitude = float(edge[4])
         interviews.append(_interview)
 
     # Get information about place
-    place = Place(title=edge[1], latitude=edge[3], longitude=edge[2])
+    place = Place(title=edge[1], latitude=float(edge[3]), longitude=float(edge[2]))
     interviews[-1].places.append(place)
 
     _bar.next()
