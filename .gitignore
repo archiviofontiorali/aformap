@@ -6,4 +6,5 @@
 .idea
 .venv
 
-output
+output/*.json
+output/*.csv
